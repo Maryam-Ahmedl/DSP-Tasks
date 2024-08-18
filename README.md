@@ -18,4 +18,4 @@ Implementing Digital Signal Processing tasks for different signals
 
 ### **Task 8**
 
-### **Practical Task **
+### **Practical Task**
