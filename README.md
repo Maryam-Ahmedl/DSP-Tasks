@@ -1,5 +1,8 @@
 # **DSP-Tasks**
-Implementing Digital Signal Processing tasks for different signals
+  - Implementing Digital Signal Processing tasks for different signals
+  - Use Python as programming language
+  - Gui by tkinter library
+  - Dealing with .txt files 
 
 ## Every Task's details
 ### **Task 1**
